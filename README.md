@@ -15,7 +15,7 @@ This project is a system that allows its users to learn the Mexican Sign Languag
 ***
 This project integrates different components as part of a REST architecture:
 
-Web Interface: A web page developed in React JS.
-Android App: An App developed in Kotlin with Retrofit.
-API: An interface built in Node JS and Express.
-Database: A MySQL database.
+- Web Interface: A web page developed in React JS.
+- Android App: An App developed in Kotlin with Retrofit.
+- API: An interface built in Node JS and Express.
+- Database: A MySQL database.
