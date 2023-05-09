@@ -4,7 +4,7 @@ This project is a system that allows its users to learn the Mexican Sign Languag
 ### Android App users
 - Can navigate along a dictionary of words and expressions of the Mexican Sign Language and watch a video demostration of them.
 - Can search a specific word or expression.
-- Can do quizzes to test and keep track of their knowledge.
+- Can take quizzes to test and keep track of their knowledge.
 - Can register as employees of a specific company to allow it to track them as well as log in if already registered.
 
 ### Web interface users
